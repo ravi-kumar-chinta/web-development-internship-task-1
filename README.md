@@ -43,17 +43,17 @@ The website is designed to work smoothly across **desktop, tablet, and mobile de
 <h2 align="center">📸 Website Preview</h2>
 
 <p align="center">
-<b>🏠 Home Page</b><br>
+<b>🏠 Home Page</b><br><br>
 <img src="images/home.png" width="800">
 </p>
 
 <p align="center">
-<b>👨‍💻 About Page</b><br>
+<b>👨‍💻 About Page</b><br><br>
 <img src="images/about.png" width="800">
 </p>
 
 <p align="center">
-<b>📩 Contact Page</b><br>
+<b>📩 Contact Page</b><br><br>
 <img src="images/contact.png" width="800">
 </p>
 
