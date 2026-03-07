@@ -5,10 +5,10 @@ A responsive multi-page website built using <b>HTML5</b> and <b>CSS3</b> as part
 </p>
 
 <p align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
-![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Project-Completed-success?style=for-the-badge" />
 </p>
 
 ---
