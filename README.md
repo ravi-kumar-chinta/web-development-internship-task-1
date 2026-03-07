@@ -1,8 +1,4 @@
-<h1 align="center">🌐 Web Development Internship Project</h1>
-
-<p align="center">
-Task 1 – Web Development Internship at <b>Redynox</b>
-</p>
+<h1 align="center">Task 1 – Web Development Internship at <b>Redynox</b></h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5" />
