@@ -58,8 +58,11 @@ web-development-internship-task-1
 ├── about.html
 ├── contact.html
 │
-└── css
-└── style.css
+├── css
+│   └── style.css
+│
+└── README.md
+
 ```
 
 ---
@@ -88,7 +91,7 @@ The main objective of this project is to understand and apply the **fundamental 
 
 # 👨‍💻 Author
 
-**Ravi Kumar**  
+**Ravi Kumar Chinta**  
 Final Year Engineering Student  
 Interested in **Web Development** and **Software Development**
 
@@ -96,7 +99,9 @@ Interested in **Web Development** and **Software Development**
 
 # 📌 Internship Program
 
-This project was developed as part of a **Web Development Internship Task** focusing on building responsive websites using basic front-end technologies.
+This project was developed as part of the **Web Development Internship Program at Redynox**.
+
+During this internship task, the objective was to design and develop a **responsive multi-page website** using standard front-end technologies including **HTML5 and CSS3**. The project demonstrates semantic webpage structure, external CSS styling, and responsive design techniques to ensure compatibility across desktop and mobile devices.
 
 ---
 
