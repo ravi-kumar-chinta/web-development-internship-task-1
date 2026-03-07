@@ -1,9 +1,6 @@
 <h1 align="center">🌐 Web Development Internship Project</h1>
 
 <p align="center">
-A responsive multi-page website built using <b>HTML5</b> and <b>CSS3</b> as part of a Web Development Internship task.
-</p>
-<p align="center">
 Task 2 – Web Development Internship at <b>Redynox</b>
 </p>
 
