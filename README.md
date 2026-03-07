@@ -3,6 +3,9 @@
 <p align="center">
 A responsive multi-page website built using <b>HTML5</b> and <b>CSS3</b> as part of a Web Development Internship task.
 </p>
+<p align="center">
+Task 2 – Web Development Internship at <b>Redynox</b>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5" />
