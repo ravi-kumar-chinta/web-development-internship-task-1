@@ -55,10 +55,7 @@ web-development-internship-task-1
 ├── index.html
 ├── about.html
 ├── contact.html
-│
-├── css
-│   └── style.css
-│
+├── style.css
 └── README.md
 
 ```
