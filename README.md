@@ -38,6 +38,27 @@ The website is designed to work smoothly across **desktop, tablet, and mobile de
 
 ---
 
+# 📸 Website Preview
+
+<h2 align="center">📸 Website Preview</h2>
+
+<p align="center">
+<b>🏠 Home Page</b><br>
+<img src="images/home.png" width="800">
+</p>
+
+<p align="center">
+<b>👨‍💻 About Page</b><br>
+<img src="images/about.png" width="800">
+</p>
+
+<p align="center">
+<b>📩 Contact Page</b><br>
+<img src="images/contact.png" width="800">
+</p>
+
+---
+
 # 🚀 Technologies Used
 
 - **HTML5** → Webpage structure and semantic elements  
