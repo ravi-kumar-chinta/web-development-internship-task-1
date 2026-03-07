@@ -27,6 +27,15 @@ The website focuses on:
 The website is designed to work smoothly across **desktop, tablet, and mobile devices**.
 
 ---
+# 🌐 Live Website Preview
+
+You can view the live website here:
+
+🔗 **Live Demo:**  
+
+'https://ravi-kumar-chinta.github.io/web-development-internship-task-1/index.html'
+
+---
 
 # 🧩 Website Pages
 
