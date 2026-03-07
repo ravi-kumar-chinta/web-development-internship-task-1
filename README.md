@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Web Development Internship Project</h1>
 
 <p align="center">
-Task 2 – Web Development Internship at <b>Redynox</b>
+Task 1 – Web Development Internship at <b>Redynox</b>
 </p>
 
 <p align="center">
