@@ -33,7 +33,7 @@ You can view the live website here:
 
 🔗 **Live Demo:**  
 
-'https://ravi-kumar-chinta.github.io/web-development-internship-task-1/index.html'
+https://ravi-kumar-chinta.github.io/web-development-internship-task-1/index.html
 
 ---
 
