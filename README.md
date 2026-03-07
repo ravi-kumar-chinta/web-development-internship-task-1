@@ -40,9 +40,7 @@ The website is designed to work smoothly across **desktop, tablet, and mobile de
 
 # 📸 Website Preview
 
-<h2 align="center">📸 Website Preview</h2>
-
-<p align="center">
+<<p align="center">
 <b>🏠 Home Page</b><br><br>
 <img src="images/home.png" width="800">
 </p>
